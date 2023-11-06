@@ -1,0 +1,8 @@
+﻿sample;answer
+(090+3);NaN
+1/0;Infinity
+0/0;NaN
+q-12;NaN
+!/3;NaN
+%+4;NaN
+wedkmfqmkelrfkmqerkfqolekrfmqkelrfmqkewfkqlwemrfkerf-4;NaN
